@@ -27,8 +27,9 @@
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-monocle&layout=compact&theme=dark)](https://github.com/dr-monocle/)
 
 <p align="left">
-  <b>SoundCloud</b> - https://soundcloud.com/francisco0liveira
-<br><b>TorchMC SMP</b> - https://dsc.gg/torchmc
+  <b>Lambda Development</b> - https://www.lambdadev.xyz
+<br><b>Lambda Bot</b> - https://bot.lambdadev.xyz
+<br><b>Website</b> - https://monocle.lambdadev.xyz
 </p>
 
 <p align="left">
