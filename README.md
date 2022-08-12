@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center">
+<img src="https://i.imgur.com/VHWRIOH.png" height="400px" align="center">
 
 <p align="left"> 
   <b>Developer. Designer. Musician. Student. More.</b>
