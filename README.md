@@ -29,7 +29,7 @@
 <p align="left">
   <b>Lambda Development</b> - https://www.lambdadev.xyz
 <br><b>Lambda Bot</b> - https://bot.lambdadev.xyz
-<br><b>Website</b> - https://monocle.lambdadev.xyz
+<br><b>Website</b> - https://drmonocle.tech
 </p>
 
 <p align="left">
@@ -37,6 +37,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:contact.drmonocle@gmail.com" alt="Gmail">
+  <a href="mailto:drmonocle@drmonocle.tech" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 </p>  
