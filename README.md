@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
-
+ 
 </p>
 
 [![card](https://github-readme-stats.vercel.app/api?username=dr-monocle&theme=dark)](https://github.com/dr-monocle/)
