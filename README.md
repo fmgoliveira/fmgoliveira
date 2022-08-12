@@ -1,9 +1,5 @@
 <img src="https://i.imgur.com/VHWRIOH.png" height="400px" align="center">
 
-<p align="left"> 
-  <b>Developer. Designer. Musician. Student. More.</b>
-</p>
-
 <p align="left">
   ✨ Skills: <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
