@@ -23,9 +23,9 @@
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-monocle&layout=compact&theme=dark)](https://github.com/dr-monocle/)
 
 <p align="left">
-  <b>Lambda Development</b> - https://www.lambdadev.xyz
-<br><b>Lambda Bot</b> - https://bot.lambdadev.xyz
-<br><b>Website</b> - https://drmonocle.tech
+<b>Lambda Bot</b> - https://lambdabot.franciscoliveira.com
+<br><b>Website</b> - https://franciscoliveira.com/dev
+<br><b>My Music</b> - https://franciscoliveira.com/music
 </p>
 
 <p align="left">
@@ -33,6 +33,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:drmonocle@drmonocle.tech" alt="Gmail">
+  <a href="mailto:francisco@franciscoliveira.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 </p>  
