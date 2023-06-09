@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/VHWRIOH.png" height="400px" align="center">
+<img src="https://i.imgur.com/ySV1Q13.png" height="400px" align="center">
 
 <p align="left">
   ✨ Skills: <br>
