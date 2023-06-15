@@ -23,9 +23,9 @@
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-monocle&layout=compact&theme=dark)](https://github.com/dr-monocle/)
 
 <p align="left">
-<b>Lambda Bot</b> - [lambdabot.franciscoliveira.com](https://lambdabot.franciscoliveira.com)
-<br><b>Website</b> - [lambdabot.franciscoliveira.com/dev](https://franciscoliveira.com/dev)
-<br><b>My Music</b> - [lambdabot.franciscoliveira.com/music](https://franciscoliveira.com/music)
+<b>Lambda Bot</b> - <a href="https://lambdabot.franciscoliveira.com">lambdabot.franciscoliveira.com</a>
+<br><b>Website</b> - <a href="https://franciscoliveira.com/dev">franciscoliveira.com/dev</a>
+<br><b>My Music</b> - <a href="https://franciscoliveira.com/music">franciscoliveira.com/music</a>
 </p>
 
 <p align="left">
