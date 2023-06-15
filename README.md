@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  📩 Contact me on <b>Discord</b>: <i>DrMonocle#4948</i>
+  📩 Contact me on <b>Discord</b>: <i>drmonocle.</i>
 </p>
 
 <p align="center">
