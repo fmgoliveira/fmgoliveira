@@ -23,13 +23,13 @@
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-monocle&layout=compact&theme=dark)](https://github.com/dr-monocle/)
 
 <p align="left">
-<b>Lambda Bot</b> - https://lambdabot.franciscoliveira.com
-<br><b>Website</b> - https://franciscoliveira.com/dev
-<br><b>My Music</b> - https://franciscoliveira.com/music
+<b>Lambda Bot</b> - [lambdabot.franciscoliveira.com](https://lambdabot.franciscoliveira.com)
+<br><b>Website</b> - [lambdabot.franciscoliveira.com/dev](https://franciscoliveira.com/dev)
+<br><b>My Music</b> - [lambdabot.franciscoliveira.com/music](https://franciscoliveira.com/music)
 </p>
 
 <p align="left">
-  📩 Contact me on <b>Discord</b>: <i>drmonocle.</i>
+  📩 Contact me on <b>Discord</b>: <code>drmonocle.</code>
 </p>
 
 <p align="center">
