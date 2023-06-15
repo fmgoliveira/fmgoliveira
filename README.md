@@ -18,8 +18,6 @@
  
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=dr-monocle&theme=dark)](https://github.com/dr-monocle/)
-
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-monocle&layout=compact&theme=dark)](https://github.com/dr-monocle/)
 
 <p align="left">
