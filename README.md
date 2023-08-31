@@ -2,6 +2,7 @@
 
 <p align="left">
   ✨ Skills: <br>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <img width="32" src="https://cdn.sanity.io/images/ylpdkf6j/production/899e7de7a6a3242c359cf8fb993d108664cbacbf-128x128.svg" />
 <img width="32" src="https://cdn.sanity.io/images/ylpdkf6j/production/f2d4e1544f60803907171b15145f6ecc62a17375-128x128.svg" />
 <img width="32" src="https://cdn.sanity.io/images/ylpdkf6j/production/ad20e75def13b432e684a341e5ae0b7077809339-128x128.svg" />
@@ -32,7 +33,7 @@
 <img width="32" src="https://cdn.sanity.io/images/ylpdkf6j/production/0ad9e785a46d61648e686d3b39a3c57175fa5aa7-128x128.svg" />
 <img width="32" src="https://cdn.sanity.io/images/ylpdkf6j/production/d34c4e66d0cd2bd769127450888556bc2a096b60-128x128.svg" />
 <img width="32" src="https://cdn.sanity.io/images/ylpdkf6j/production/2af0ec575238e5866a7eb7aa0c80301f64b7d459-128x128.svg" />
- 
+  </div>
 </p>
 
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-monocle&layout=compact&theme=dark)](https://github.com/dr-monocle/)
