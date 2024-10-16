@@ -1,1 +1,1 @@
-![franciscoliveira.com/dev](https://github.com/fmgoliveira/fmgoliveira/blob/main/img.png?raw=true)
+![franciscoliveira.com/dev](https://i.imgur.com/IgBNGyS.png)
