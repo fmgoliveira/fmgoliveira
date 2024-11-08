@@ -1,0 +1,25 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            .dark {
+                display: none;
+            }
+            @media (prefers-color-scheme: dark) {
+                .light {
+                    display: none;
+                }
+                .dark {
+                    display: initial;
+                }
+            }
+        </style>
+        <div class="light">
+          <img src="https://github-profile-trophy.vercel.app?username=fmgoliveira&amp;column=-1&amp;row=1&amp;margin-w=8&amp;margin-h=8&amp;no-bg=true&amp;no-frame=true&amp;order=4" alt="trophy graph"  />
+        </div>
+        <div class="dark">
+           <img src="https://github-profile-trophy.vercel.app?username=fmgoliveira&amp;theme=onestar&amp;column=-1&amp;row=1&amp;margin-w=8&amp;margin-h=8&amp;no-bg=true&amp;no-frame=true&amp;order=4" alt="trophy graph"  />
+        </div>
+    </div>
+  </foreignObject>
+</svg>

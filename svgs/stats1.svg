@@ -1,0 +1,25 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            .dark {
+                display: none;
+            }
+            @media (prefers-color-scheme: dark) {
+                .light {
+                    display: none;
+                }
+                .dark {
+                    display: initial;
+                }
+            }
+        </style>
+        <div class="light">
+            <img src="https://github-readme-stats.vercel.app/api?username=fmgoliveira&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;locale=en&amp;hide_border=true&amp;bg_color=00000000" alt="stats graph" class="light"  />
+        </div>
+        <div class="dark">
+            <img src="https://github-readme-stats.vercel.app/api?username=fmgoliveira&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=true&amp;bg_color=00000000" alt="stats graph" class="dark" />
+        </div>
+    </div>
+  </foreignObject>
+</svg>

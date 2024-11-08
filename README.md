@@ -1,25 +1,4 @@
-<style>
-    .dark {
-        display: none;
-    }
-    img.invert {
-        filter: invert(1);
-        background: none;
-    }
-    @media (prefers-color-scheme: dark) {
-        .light {
-            display: none;
-        }
-        .dark {
-            display: initial;
-        }
-        img.invert {
-            filter: none;
-        }
-    }
-</style>
-
-<img src="https://i.imgur.com/jpbdzEo.png" class="invert" style="border-radius: .5rem; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;" />
+<img src="/svgs/banner.svg" style="border-radius: .5rem; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;" />
 
 <h3 align="center">👋 Hi, I'm <b>Francisco</b>, and I'm a developer</h3>
 <div align="center">
@@ -29,25 +8,18 @@
 ###
 
 <div align="center">
-    <div class="light">
-        <img src="https://github-readme-stats.vercel.app/api?username=fmgoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=00000000" height="150" alt="stats graph" class="light"  />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmgoliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&bg_color=00000000" height="150" alt="languages graph" class="light"  />
-    </div>
-    <div class="dark">
-        <img src="https://github-readme-stats.vercel.app/api?username=fmgoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&bg_color=00000000" height="150" alt="stats graph" class="dark" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmgoliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&bg_color=00000000" height="150" alt="languages graph" class="dark"  />
-    </div>
-    <div class="light">
-        <img src="https://github-profile-trophy.vercel.app?username=fmgoliveira&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-    </div>
-    <div class="dark">
-        <img src="https://github-profile-trophy.vercel.app?username=fmgoliveira&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-    </div>
+    <img src="/svgs/stats1.svg" height="150" alt="stats graph" />
+    <img src="/svgs/stats2.svg" height="150" alt="stats graph" />
+    <img src="/svgs/stats3.svg" height="150" alt="stats graph" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/fmgoliveira/fmgoliveira/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmgoliveira/fmgoliveira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fmgoliveira/fmgoliveira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fmgoliveira/fmgoliveira/output/github-snake.svg" />
+</picture>
 
 ###
 
