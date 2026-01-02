@@ -29,7 +29,7 @@
     </picture>
 </div>
 
-### 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmgoliveira/fmgoliveira/output/github-snake-dark.svg" />
