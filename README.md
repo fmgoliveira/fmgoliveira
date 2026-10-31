@@ -18,35 +18,6 @@
 - 🔐 Into self-hosting: password managers, MCP servers, URL shorteners
 - 🎼 I also **[compose music](https://franciscoliveira.com/music)**
 
-### Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/fmgoliveira/voult">Voult</a></h4>
-      Self-hosted, zero-knowledge password manager (Argon2id + AES-256-GCM) with browser extension and Android app clients.<br /><br />
-      <sub><code>TypeScript</code> · <code>Expo</code> · <code>PocketBase</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/fmgoliveira/mcp-server">mcp-server</a></h4>
-      Self-hosted MCP server that lets Claude work across several Google, Microsoft 365, Canva, GitHub and other accounts at once, with an admin UI.<br /><br />
-      <sub><code>TypeScript</code> · <code>MCP</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Velo</h4>
-      Multi-tenant SaaS platform for sports clubs, with payments through Stripe Connect. <i>(private)</i><br /><br />
-      <sub><code>Next.js</code> · <code>Drizzle</code> · <code>PostgreSQL</code> · <code>Stripe</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/fmgoliveira/fct-vpn-linux">fct-vpn-linux</a></h4>
-      A guide to using NOVA FCT's VPN on Linux with <code>snx-rs</code>, including the new 2FA flow.<br /><br />
-      <sub><code>Guide</code> · <code>Linux</code> · <code>VPN</code></sub>
-    </td>
-  </tr>
-</table>
-
 ### Tech stack
 
 <img src="./assets/stack.svg" alt="TypeScript, Next.js, React, Node.js, PostgreSQL, Drizzle, Tailwind, Better Auth, Stripe, Python, Java, C, OCaml, SQL, Expo, PocketBase, Docker, Linux, Cloudflare" width="100%" />
