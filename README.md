@@ -3,6 +3,7 @@
 <img src="./assets/header.svg" alt="Francisco Oliveira — software developer" width="100%" />
 
 <br />
+<br />
 
 [**Website**](https://franciscoliveira.com) &nbsp;·&nbsp; [**Sinformania**](https://sinformania.pt) &nbsp;·&nbsp; [**n.inf**](https://github.com/ninf-fct) &nbsp;·&nbsp; [**Voult**](https://github.com/fmgoliveira/voult)
 
