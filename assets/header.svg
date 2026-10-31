@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-label="Francisco Oliveira. Building the future one pixel at a time. Computer Science and Engineering, Solution Designer and Developer.">
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".1"/></pattern>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<mask id="mk"><rect width="900" height="270" fill="url(#fade)"/></mask>
+<clipPath id="card"><rect width="900" height="270" rx="16"/></clipPath></defs>
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .hello{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;font-size:13px;fill:#737373;letter-spacing:.5px}
+  .name{font-size:58px;font-weight:700;letter-spacing:-2px;fill:#fff}
+  .tag{font-size:25px;fill:#d4d4d4;letter-spacing:-.2px}
+  .fut{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;font-size:23px;fill:#fff;letter-spacing:0}
+  .meta{font-size:13px;fill:#737373;letter-spacing:.3px}
+  .in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .r1{transform-origin:745px 135px;animation:spin 50s linear infinite} .r2{transform-origin:745px 135px;animation:spin 32s linear infinite reverse}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .pulse{animation:pulse 3s ease-in-out infinite} @keyframes pulse{50%{opacity:.3}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}.in{opacity:1}}
+</style>
+<g clip-path="url(#card)">
+  <rect width="900" height="270" fill="#0a0a0a"/>
+  <g mask="url(#mk)"><rect width="900" height="270" fill="url(#dots)"/></g>
+  <g fill="none" stroke="#fff">
+    <g class="r1" stroke-opacity=".14" stroke-dasharray="2 8" stroke-linecap="round"><circle cx="745" cy="135" r="104"/><circle cx="849" cy="135" r="4" fill="#fff" stroke="none"/></g>
+    <g class="r2" stroke-opacity=".2"><circle cx="745" cy="135" r="64"/><circle cx="745" cy="71" r="3" fill="#a3a3a3" stroke="none"/></g>
+    <circle cx="745" cy="135" r="4" fill="#fff" stroke="none" class="pulse"/>
+  </g>
+  <text class="hello in" x="64" y="84" style="animation-delay:.1s">// hello, world — i'm</text>
+  <text class="name in" x="62" y="148" style="animation-delay:.3s">Francisco Oliveira</text>
+  <text class="tag in" x="64" y="196" style="animation-delay:.6s">Building the <tspan class="fut">&lt;future/&gt;</tspan> one pixel at a time.</text>
+  <text class="meta in" x="64" y="236" style="animation-delay:.9s">Computer Science &amp; Engineering  ·  Solution Designer &amp; Developer</text>
+</g>
+<rect x=".5" y=".5" width="899" height="269" rx="15.5" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

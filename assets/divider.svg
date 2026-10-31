@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="20" viewBox="0 0 900 20" role="presentation">
+<style>.s{animation:s 4s ease-in-out infinite alternate} @keyframes s{from{transform:translateX(0)}to{transform:translateX(740px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="60" y="10" width="780" height="1" fill="#808080" fill-opacity=".35"/>
+<rect class="s" x="60" y="9" width="40" height="3" rx="1.5" fill="#808080"/></svg>
