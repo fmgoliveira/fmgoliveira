@@ -13,10 +13,10 @@
 ### About
 
 - 🎓 CS student at **NOVA FCT**, and VP of **n.inf**, the Computer Science student group
-- 🏢 Running **[Sinformania](https://sinformania.pt)**, a Portuguese tech & consulting company
+- 🏢 Solution Designer & Developer at **[Sinformania](https://sinformania.pt)**, a Portuguese tech & consulting company
 - 🏟️ Building **Velo**, a multi-tenant SaaS platform for sports clubs
 - 🔐 Into self-hosting: password managers, MCP servers, URL shorteners
-- 🎼 I also compose music
+- 🎼 I also **[compose music](https://franciscoliveira.com/music)**
 
 ### Featured projects
 
