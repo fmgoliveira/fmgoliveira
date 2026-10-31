@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-label="Francisco Oliveira, software developer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1f"/><stop offset=".6" stop-color="#11183a"/><stop offset="1" stop-color="#1a1240"/></linearGradient>
+  <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="520" y2="0">
+    <stop offset="0" stop-color="#f9fafb"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#c4b5fd"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-240 0;240 0;-240 0" dur="9s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="b1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <radialGradient id="b2"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".6"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="b3"><stop offset="0" stop-color="#f472b6" stop-opacity=".35"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#ffffff" fill-opacity=".09"/></pattern>
+  <clipPath id="card"><rect width="900" height="270" rx="22"/></clipPath>
+</defs>
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;font-size:24px;fill:#e5e7eb}
+  .hello{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;font-size:14px;fill:#67e8f9;letter-spacing:1px}
+  .name{font-size:58px;font-weight:800;letter-spacing:-1.5px;fill:url(#name)}
+  .meta{font-size:14px;fill:#9ca3af;letter-spacing:.4px}
+  .in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  .blink{animation:blink 1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
+  .d1{animation:d1 14s ease-in-out infinite alternate} @keyframes d1{to{transform:translate(120px,40px)}}
+  .d2{animation:d2 18s ease-in-out infinite alternate} @keyframes d2{to{transform:translate(-160px,-30px)}}
+  .d3{animation:d3 16s ease-in-out infinite alternate} @keyframes d3{to{transform:translate(-90px,50px)}}
+  .spin{transform-origin:735px 135px;animation:spin 40s linear infinite} .spin2{transform-origin:735px 135px;animation:spin 26s linear infinite reverse}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .bob{animation:bob 5s ease-in-out infinite} @keyframes bob{50%{transform:translateY(-6px)}}
+@keyframes clip0{0%,0.00%{width:0}1.00%{width:0;animation-timing-function:steps(31,end)}10.50%,29.83%{width:446.4px}33.32%,100%{width:0}}
+@keyframes cur0{0%,0.00%{transform:translateX(0);opacity:0}0.99%{transform:translateX(0);opacity:1;animation-timing-function:steps(31,end)}10.50%,29.83%{transform:translateX(446.4px);opacity:1}31.03%,100%{transform:translateX(446.4px);opacity:0}}
+.c0{animation:clip0 15.0s infinite} .k0{animation:cur0 15.0s infinite}
+@keyframes clip1{0%,33.33%{width:0}34.33%{width:0;animation-timing-function:steps(34,end)}43.83%,63.17%{width:489.6px}66.66%,100%{width:0}}
+@keyframes cur1{0%,33.33%{transform:translateX(0);opacity:0}34.32%{transform:translateX(0);opacity:1;animation-timing-function:steps(34,end)}43.83%,63.17%{transform:translateX(489.6px);opacity:1}64.37%,100%{transform:translateX(489.6px);opacity:0}}
+.c1{animation:clip1 15.0s infinite} .k1{animation:cur1 15.0s infinite}
+@keyframes clip2{0%,66.67%{width:0}67.67%{width:0;animation-timing-function:steps(34,end)}77.17%,96.50%{width:489.6px}99.99%,100%{width:0}}
+@keyframes cur2{0%,66.67%{transform:translateX(0);opacity:0}67.66%{transform:translateX(0);opacity:1;animation-timing-function:steps(34,end)}77.17%,96.50%{transform:translateX(489.6px);opacity:1}97.70%,100%{transform:translateX(489.6px);opacity:0}}
+.c2{animation:clip2 15.0s infinite} .k2{animation:cur2 15.0s infinite}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}.in{opacity:1}.c0{width:446.4px}.k0,.k1,.k2{display:none}}
+</style>
+<g clip-path="url(#card)">
+  <rect width="900" height="270" fill="url(#bg)"/>
+  <circle class="d1" cx="130" cy="60" r="190" fill="url(#b1)"/>
+  <circle class="d2" cx="720" cy="220" r="230" fill="url(#b2)"/>
+  <circle class="d3" cx="560" cy="30" r="150" fill="url(#b3)"/>
+  <rect width="900" height="270" fill="url(#dots)"/>
+  <g class="bob">
+    <g class="spin" fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-dasharray="3 9" stroke-linecap="round">
+      <circle cx="735" cy="135" r="104"/><circle cx="839" cy="135" r="5" fill="#67e8f9" stroke="none"/>
+    </g>
+    <g class="spin2" fill="none" stroke="#ffffff" stroke-opacity=".22">
+      <circle cx="735" cy="135" r="68"/><circle cx="735" cy="67" r="4.5" fill="#c4b5fd" stroke="none"/><circle cx="667" cy="135" r="3.5" fill="#f472b6" stroke="none"/>
+    </g>
+    <text x="735" y="147" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="40" font-weight="700" fill="#ffffff" fill-opacity=".9">&lt;/&gt;</text>
+  </g>
+  <text class="hello in" x="64" y="82" style="animation-delay:.1s">&gt; hello, world — i'm</text>
+  <text class="name in" x="62" y="146" style="animation-delay:.3s">Francisco Oliveira</text>
+  <clipPath id="tc0"><rect class="c0" x="0" y="-26" height="40" width="0"/></clipPath>
+<g transform="translate(64 196)"><g clip-path="url(#tc0)"><text class="mono" x="0" y="0" textLength="446.4" lengthAdjust="spacingAndGlyphs">Software developer &amp; CS student</text></g>
+<g class="k0"><rect class="blink" x="3" y="-22" width="2.5" height="28" rx="1.2" fill="#67e8f9"/></g></g><clipPath id="tc1"><rect class="c1" x="0" y="-26" height="40" width="0"/></clipPath>
+<g transform="translate(64 196)"><g clip-path="url(#tc1)"><text class="mono" x="0" y="0" textLength="489.6" lengthAdjust="spacingAndGlyphs">Building Velo, Voult &amp; Sinformania</text></g>
+<g class="k1"><rect class="blink" x="3" y="-22" width="2.5" height="28" rx="1.2" fill="#67e8f9"/></g></g><clipPath id="tc2"><rect class="c2" x="0" y="-26" height="40" width="0"/></clipPath>
+<g transform="translate(64 196)"><g clip-path="url(#tc2)"><text class="mono" x="0" y="0" textLength="489.6" lengthAdjust="spacingAndGlyphs">VP of n.inf  /  NOVA FCT, Portugal</text></g>
+<g class="k2"><rect class="blink" x="3" y="-22" width="2.5" height="28" rx="1.2" fill="#67e8f9"/></g></g>
+  <text class="meta in" x="64" y="236" style="animation-delay:.9s">Portugal  ·  Computer Science @ NOVA FCT  ·  TypeScript, systems &amp; self-hosting</text>
+</g>
+<rect x=".5" y=".5" width="899" height="269" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+</svg>
