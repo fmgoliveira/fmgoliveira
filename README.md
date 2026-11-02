@@ -1,5 +1,3 @@
-[![M8ven Score](https://m8ven.ai/badge/mcp/fmgoliveira-mcp-server-1vu7k3?v=d5e6cd543978df4ff723ea794f253b38)](https://m8ven.ai/mcp/fmgoliveira-mcp-server-1vu7k3?s=readme)
-
 <div align="center">
 
 <img src="./assets/header.svg" alt="Francisco Oliveira — software developer" width="100%" />
